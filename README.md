@@ -1,2 +1,2 @@
 # Blujay0.github.io
-Test GitHub Pages
+Test GitHub Pages Deployment
